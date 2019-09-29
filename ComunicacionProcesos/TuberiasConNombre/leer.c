@@ -37,5 +37,5 @@ int main() {
 
     }
 
-  //fclose(myfifo); 
+  fclose(myfifo); 
 }
