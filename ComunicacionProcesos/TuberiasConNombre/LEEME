@@ -1,0 +1,5 @@
+Iniciaremos el programa escribir.
+Desde otra terminal ejecutaremos el programa leer, desde el mismo directorio que escribir.
+Desde la terminal de escribir escribiremos texto que será almacenado en la tuberia.
+Desde la terminal de leer se leeran los mensajes cuando escribir pulse exit.
+No se cerrará el programa escribir hasta que se ejecute leer y en escribir se pulse exit.
