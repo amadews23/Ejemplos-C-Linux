@@ -1,9 +1,3 @@
-/********************************************************
-* NOMBRE: #Bartolome#
-* PRIMER APELLIDO: #Vich#
-* SEGUNDO APELLIDO: #Lozano#
-* EMAIL: #amadews23@hotmail.com#
-********************************************************/
 /*******************************************************
 Programa error_num.c
 Descripcion:
